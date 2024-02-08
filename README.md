@@ -1,4 +1,4 @@
-# Writing Club Guidelines
+# Writing Club
 
 ## Introduction
 
