@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You've been meaning to do it for so long. Now is the time. Treat yourself to some writing time.
+You've been meaning to do it for so long. Isn't it? Now is the time. Treat yourself to some writing time.
 
 ## What is Writing Club?
 
