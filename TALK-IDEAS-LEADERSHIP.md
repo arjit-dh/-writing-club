@@ -4,7 +4,7 @@ This document outlines a curated list of leadership presentation topics that can
 
 ## Presentation Topics
 
-Here is a list of topics we plan to cover in our upcoming leadership presentations. This selection is designed to address various aspects of leadership relevant to our club's context and goals.
+Here is a list of topics I plan to cover:
 
 - SlackLogs for your Growth
 - Executive Summaries for Leaders
