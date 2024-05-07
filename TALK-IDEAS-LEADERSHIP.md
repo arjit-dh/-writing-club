@@ -10,7 +10,7 @@ Here is a list of topics I plan to cover:
 - Visibility of ICs
 - SlackLogs for your Growth
 - Executive Summaries for Leaders
-- Estalibishing Team Charters
+- Establishing Team Charters
 - What the fuck is a good alert?
 - What the fuck is good observability and data?
 - Building Resilient Teams?
