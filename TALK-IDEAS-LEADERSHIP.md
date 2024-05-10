@@ -6,7 +6,7 @@ This document outlines a curated list of leadership presentation topics that can
 
 Here is a list of topics I plan to cover:
 
-- What do humans need at work, actually?
+- What do humans really, really need at work, actually?
 - Visibility of ICs
 - SlackLogs for your Growth
 - Executive Summaries for Leaders
